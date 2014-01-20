@@ -5,7 +5,7 @@
   <artifactId>epp-rtk-gkg</artifactId>
   <packaging>jar</packaging>
   <name>epp-rtk-gkg</name>
-  <version>0.9.7-SNAPSHOT</version>
+  <version>0.9.8-SNAPSHOT</version>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
